@@ -1,4 +1,5 @@
-# GXMD — Graph Extremal Matching-Duality Spectral Framework
+# GXMD-Graph-Extremal-Matching-Duality
+
 ## Gallai-Edmonds Decomposition, Maximum Flow–Cut Cheeger Duality, and Hadwiger Coloring as the Combinatorial Spectral Geometry of Learning
 ### A Unified Framework Extension — Bridges XXVIII · XXIX · XXX
 #### Modules: GXMD · GLEM · MXFL · HWMN
